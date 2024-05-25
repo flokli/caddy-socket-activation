@@ -1,4 +1,4 @@
-module caddy-socket-activation
+module github.com/flokli/caddy-socket-activation
 
 go 1.22.0
 
